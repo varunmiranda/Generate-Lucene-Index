@@ -1,5 +1,5 @@
 # Generate-Lucene-Index
-A corpus of many trectext files are used where there is a grand total of 84474 documents. Our task is to create a Lucene index for all these documents where we need to take care of merging content from the same tag in the same document.
+A corpus of many trectext files are used where there is a grand total of 84474 documents (I have only uploaded 10 files in GitHub which will contain approximately 300 documents). Our task is to create a Lucene index for all these documents where we need to take care of merging content from the same tag in the same document.
 
 For instance:
 <DOC>
